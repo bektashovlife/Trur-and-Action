@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="true_or_action">
+        <item>Сделать 20 отжиманий</item>
+        <item>Сколько тебе лет</item>
+        <item>Сделать 30 приседаний</item>
+        <item>Спой песнью</item>
+    </string-array>
+</resources>
